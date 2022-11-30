@@ -33,5 +33,5 @@ Esse padrões descrevem os seguintes aspectos: elaboração, associação e a or
 - Template Method 
 - Iterator
 
-Esses padrões, mostram o processo de como os objetos ou classes se comunicam. Em geral, buscam um baixo acoplamento entre os objetos, apesar da comunicação que existe entre eles.
+Esses padrões mostram o processo de como os objetos ou classes se comunicam. Em geral, buscam um baixo acoplamento entre os objetos, apesar da comunicação que existe entre eles.
 ```
