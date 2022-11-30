@@ -1,4 +1,4 @@
-# ES3A3---Trabalho-Final
+# DESIGN PATTERNS
 
 Integrantes
 - Ana Carla Calixto           SP3084744
