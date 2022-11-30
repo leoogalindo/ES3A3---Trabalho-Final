@@ -1,10 +1,10 @@
 # ES3A3---Trabalho-Final
 
 Integrantes
-Ana Carla Calixto           SP3084744
-Leonardo Galindo da Silva   SP3081656
-Lucas de Oliveira           SP3082741
-Jorge Silva                 SP3056406
+- Ana Carla Calixto           SP3084744
+- Leonardo Galindo da Silva   SP3081656
+- Lucas de Oliveira           SP3082741
+- Jorge Silva                 SP3056406
 
 Os Design Patterns são uma coleção de padrões de desenho de software, que são soluções para problemas conhecidos e recorrentes no desenvolvimento de software.
 
