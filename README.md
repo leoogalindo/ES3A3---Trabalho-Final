@@ -24,6 +24,7 @@ O construtor não consegue controlar o número de instâncias presentes na aplic
 ```markdown
 - Decorator 
 - Adapter
+
 Esse padrões descrevem os seguintes aspectos: elaboração, associação e a organização entre objetos e classes/interfaces. Permitem combinar objetos em estruturas mais complexas, ou descrever como as classes são herdadas ou compostas a partir de outras.
 ```
 
@@ -31,5 +32,6 @@ Esse padrões descrevem os seguintes aspectos: elaboração, associação e a or
 ```markdown
 - Template Method 
 - Iterator
+
 Esses padrões, mostram o processo de como os objetos ou classes se comunicam. Em geral, buscam um baixo acoplamento entre os objetos, apesar da comunicação que existe entre eles.
 ```
